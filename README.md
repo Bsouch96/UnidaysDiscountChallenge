@@ -32,5 +32,5 @@ To compile: javac *.java
 To run: java UnidaysDiscountChallenge
 
 
----Author---
+---AUTHOR---
 Ben Souch - bksouch96@gmail.com
