@@ -15,7 +15,8 @@ public class Checkout
     private HashMap<String, Double> prices;
     
     /**
-     * The Checkout constructor is used to to initialise the prices HashMap with the prices parameter and the purchases to an empty StringBuilder.
+     * The Checkout constructor is used to to initialise the prices HashMap with the prices parameter and the purchases to an empty StringBuilder. An exception is thrown here
+     * because we  don't want the Checkout object to be instantiated with incorrect values.
      * @param prices This parameter contains a key to value pairing of ItemIDs to prices. If the HashMap itself is null, a String key is null or the HashMap is empty then
      * an IllegalArgumentException is thrown.
      * @throws IllegalArgumentException thrown if the HashMap itself is null, a String key is null or the HashMap is empty.
