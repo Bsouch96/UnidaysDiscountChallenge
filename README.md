@@ -6,7 +6,7 @@
 Implement a class that processes customer item requests and calculates the total price of all items with due consideration to SOLID principles.
 
 
----APPROACH---
+# ---APPROACH---
 Initial thoughts:
 Implement a menu for choosing items.
 Possible multi-dimensional array for the item/price/discount (price rules).
