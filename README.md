@@ -2,7 +2,7 @@
  Unidays Placement Application
  
  
-#---CHALLENGE OVERVIEW---
+# ---CHALLENGE OVERVIEW---
 Implement a class that processes customer item requests and calculates the total price of all items with due consideration to SOLID principles.
 
 
@@ -14,7 +14,7 @@ I took some time to think of the simplest way I could implement the price rules 
 Some consideration for potential edge and corner cases such as null Strings for customer items.
 
 
-#---SOLUTION---
+# ---SOLUTION---
 Main Class:
   I decided that implementing a menu for the customer would be the simplest way to navigate the program at runtime where the user could continue to add items to their basket until they decided to pay.
 Checkout Class:
@@ -24,7 +24,7 @@ Checkout Class:
   Inputs to the "Checkout" class have been validated for edge and corner cases.
 
 
-#---RUNNING---
+# ---RUNNING---
 This solution was implemented in Netbeans using Java.
 From command line:
 Change directory to the directory that contains the programs source files
@@ -32,5 +32,5 @@ To compile: javac *.java
 To run: java UnidaysDiscountChallenge
 
 
----AUTHOR---
+# ---AUTHOR---
 Ben Souch - bksouch96@gmail.com
