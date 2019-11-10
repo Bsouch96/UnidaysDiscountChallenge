@@ -25,6 +25,12 @@ Checkout Class:
 
 
 # ---RUNNING---
+Upon starting the program, choose an option in the console menu:
+1. Allows you to add an item to your basket.
+2. Calculates the total cost of all items in your basket.
+
+Continue adding items into your basket until you wish to checkout.
+
 This solution was implemented in Netbeans using Java.
 From command line:
 Change directory to the directory that contains the programs source files
